@@ -4,13 +4,14 @@ This account was created with the aim of facilitating teaching. Furthermore, I'm
 
 ### Interests
 
-With a decade of experience under my belt and having graduated from an academy sponsored by Microsoft for IT, networking, security, and fiber optics, with several certifications and awards, computer science has become very influential in my life. This field is something I am very passionate about, leading me to strive for exponential growth and improvement. I observe like a satellite to learn from the mistakes of others while finding inspiration from those greater than me. I Inherently believe you can never know too much and also believe that the only way to improve this field is by giving back to others, making me highly supportive of OSS. With that being said, here are some of my interests:
+With a decade of experience under my belt and having graduated from an academy sponsored by Microsoft for IT, networking, security, and fiber optics, with several certifications and awards, computer science has become very influential in my life. This field is something I am very passionate about, leading me to strive for exponential growth and improvement. I observe like a satellite to learn from the mistakes of others while finding inspiration from those greater than me. I Inherently believe you can never know too much and also believe that the only way to improve this field is by giving back to others, making me highly supportive of OSS. With that being said, here are some of my interests and day-to-day hobbies:
 
 - OSS
 - Security
 - Networking
 - Operating Systems
 - Reverse Engineering
+- Researching
 - Algorithms
 - Data Science
 - Data Structures
@@ -30,6 +31,16 @@ With a decade of experience under my belt and having graduated from an academy s
 - Hearing about your project ideas.
 - Doing your homework.
 - Writing your code for you.
+
+#### Hobbies outside of this field:
+- Researching Other Fields (Government, Military, Medical Science, Space, Physics, Chemistry, Manufacturing, and Electrical Engineering)
+- 3D Modeling
+- Creating Music
+- Poetry
+- Urbex
+- Working On Cars
+- Getting Lost In Thought
+- Playing With My Ferrets
 
 ### Give me something to do?
 
