@@ -4,7 +4,7 @@ This account was created with the aim of facilitating teaching. Furthermore, I'm
 
 ### Interests
 
-With a decade of experience under my belt and having graduated from an academy sponsored by Microsoft for IT, networking, security, and fiber optics, with several certifications and awards, computer science has become very influential in my life. This field is something I am very passionate about, leading me to strive for exponential growth and improvement. I observe like a satellite to learn from the mistakes of others while finding inspiration from those greater than me. I Inherently believe you can never know too much and also believe that the only way to improve this field is by giving back to others, making me highly supportive of OSS. With that being said, here are some of my interests and day-to-day hobbies:
+With a decade of experience under my belt and having graduated from an academy sponsored by Microsoft for IT, networking, security, and fiber optics, with several certifications and awards, computer science has become very influential in my life. This field is something I am very passionate about, leading me to strive for exponential growth and improvement. I observe like a satellite to learn from the mistakes of others while finding inspiration from those greater than me. I Inherently believe you can never know too much and also believe that the only way to improve is by giving back to others and sharing our knowledge, making me highly supportive of OSS. It is through these contributions we can make both this field, and this world, a better place. With that being said, here are some of my interests and day-to-day hobbies:
 
 - OSS
 - Security
@@ -35,13 +35,12 @@ With a decade of experience under my belt and having graduated from an academy s
 
 #### Hobbies outside of this field:
 - Researching Other Fields (Government, Military, Law, History, Medical Science, Space, Physics, Chemistry, Manufacturing, and Electrical Engineering)
-- 3D Modeling
+- Creating 2D/3D Art
 - Creating Music
-- Poetry
+- Creating & Reading Poetry
 - Urbex
-- Working On Cars
+- Automotive Tech
 - Getting Lost In Thought
-- Taking Care Of My Ferrets
 
 ### Give me something to do?
 
