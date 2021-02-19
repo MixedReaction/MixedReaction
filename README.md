@@ -41,7 +41,7 @@ With a decade of experience under my belt and having graduated from an academy s
 - Urbex
 - Working On Cars
 - Getting Lost In Thought
-- Playing With My Ferrets
+- Taking Care Of My Ferrets
 
 ### Give me something to do?
 
