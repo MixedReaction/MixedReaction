@@ -13,6 +13,7 @@ With a decade of experience under my belt and having graduated from an academy s
 - Reverse Engineering
 - Researching
 - Algorithms
+- Mathematics
 - Data Science
 - Data Structures
 - Graphics Programming
@@ -33,7 +34,7 @@ With a decade of experience under my belt and having graduated from an academy s
 - Writing your code for you.
 
 #### Hobbies outside of this field:
-- Researching Other Fields (Government, Military, Medical Science, Space, Physics, Chemistry, Manufacturing, and Electrical Engineering)
+- Researching Other Fields (Government, Military, Law, History, Medical Science, Space, Physics, Chemistry, Manufacturing, and Electrical Engineering)
 - 3D Modeling
 - Creating Music
 - Poetry
