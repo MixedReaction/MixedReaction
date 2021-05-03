@@ -1,6 +1,6 @@
 ### Is it me you're looking for?
 
-This account was created with the aim of facilitating teaching. Furthermore, I'm regularly on [Reddit](https://www.reddit.com/user/DidacticSpectre?utm_source=amp&utm_medium=&utm_content=comment_username) and [Pastebin](https://pastebin.com/u/MixedReaction) which is where you can find more helpful resources created by me.
+This account was created with the aim of facilitating teaching. Furthermore, I'm regularly on [Reddit](https://www.reddit.com/user/DidacticSpectre?utm_source=amp&utm_medium=&utm_content=comment_username) and [Pastebin](https://pastebin.com/u/DidacticSpectre) which is where you can find more helpful resources created by me.
 
 ### Interests
 
