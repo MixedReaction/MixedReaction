@@ -21,6 +21,7 @@ With a decade of experience under my belt and having graduated from an academy s
 - Game Development
 - Software Development
 - Ethical Hacking
+- Computer Forensics
 - Compiler Development
 - Cellular Automata
 - Automata Theory
