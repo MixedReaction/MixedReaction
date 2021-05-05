@@ -46,3 +46,11 @@ With a decade of experience under my belt and having graduated from an academy s
 ### Give me something to do?
 
 I'm always interested in helping and educating those wanting to become, or be better, programmers, engineers, and computer scientists. Especially those developing with C#. Have a question or stuck on something? Something not working right? Don't know where to begin? Reach out to me and let's figure this out together.
+
+### Social:
+
+[![image](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/DidacticSpectre)
+[![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/828240628483751966)
+[![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UChAO6RYs7Qj4C8lzwTl-dYw)
+[![image](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/user-279854821)
+[![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/didacticspectre)
