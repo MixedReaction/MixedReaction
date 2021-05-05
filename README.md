@@ -65,3 +65,4 @@ I'm always interested in helping and educating those wanting to become, or be be
 [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UChAO6RYs7Qj4C8lzwTl-dYw)
 [![image](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/user-279854821)
 [![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/didacticspectre)
+[![image](https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white)](http://live.xbox.com/Profile?Gamertag=didactic3058)
