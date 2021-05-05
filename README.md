@@ -46,3 +46,6 @@ With a decade of experience under my belt and having graduated from an academy s
 ### Give me something to do?
 
 I'm always interested in helping and educating those wanting to become, or be better, programmers, engineers, and computer scientists. Especially those developing with C#. Have a question or stuck on something? Something not working right? Don't know where to begin? Reach out to me and let's figure this out together.
+
+### Social:
+<img src="{https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white}" />
