@@ -35,7 +35,18 @@ With a decade of experience under my belt and having graduated from an academy s
 - Writing your code for you.
 
 #### Hobbies outside of this field:
-- Researching Other Fields (Government, Military, Law, History, Medical Science, Space, Physics, Chemistry, Manufacturing, and Electrical Engineering)
+- Researching Other Fields
+    - Government
+    - Military
+    - Law
+    - History
+    - Medical Science
+    - Space
+    - Physics
+    - Chemistry
+    - Culinary Arts
+    - Manufacturing
+    - Electrical Engineering
 - Creating 2D/3D Art
 - Creating Music
 - Creating & Reading Poetry
