@@ -39,6 +39,7 @@ With a decade of experience under my belt and having graduated from an academy s
 - Researching Other Fields
     - Government
     - Military
+    - Survival
     - Law
     - History
     - Medical Science
