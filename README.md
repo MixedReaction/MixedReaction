@@ -68,6 +68,7 @@ With a decade of experience under my belt and having graduated from an academy s
 ### Awards:
 
 - 8+ Awards for Swimming (2011)
+- SBC Wrestling Champs (2011) Divisional 3 state dual champs.
 - 1st Place PC Servicing & Troubleshooting (2014 regional)
 - 8th Place Network Administration Using Microsoft (2014 regional)
 - 1st Place Information Technology Concepts (2015 regional)
