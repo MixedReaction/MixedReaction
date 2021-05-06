@@ -35,6 +35,7 @@ With a decade of experience under my belt and having graduated from an academy s
 - Writing your code for you.
 
 #### Hobbies outside of this field:
+
 - Researching Other Fields
     - Government
     - Military
@@ -53,6 +54,34 @@ With a decade of experience under my belt and having graduated from an academy s
 - Urbex
 - Automotive Tech
 - Getting Lost In Thought
+
+### Certifications:
+
+- Lifeguard (2013)
+- CPR/AED (2013)
+- PC Pro (2014 to present) - Perfect score ranking me in the top 10% of the U.S.. Certified to to work on, build, and troubleshoot both personal computers and servers. Also certified to manage hardware and Windows servers.
+- Copper Cabling (2014 to present) - Certified to create copper cables (both ethernet and coaxial) as well for installation adhering to standards and regulations. Also certified to install and use punchdown boards, server racks, running cables, etc..
+- Network Pro (2015 to present) - Perfect score ranking me in the top 10% of the U.S.. Certified to create and maintain networks from home to business implementations, as well for securing and troubleshooting them.
+- Fiber Optics (2015 to present) - Certified to build fiber optic cables and create fiber optic networks.
+- Forklift (2 companies, 2015 to present)
+
+### Awards:
+
+- 8+ Awards for Swimming (2011)
+- 1st Place PC Servicing & Troubleshooting (2014 regional)
+- 8th Place Network Administration Using Microsoft (2014 regional)
+- 1st Place Information Technology Concepts (2015 regional)
+- 1st Place PC Servicing & Troubleshooting (2015 regional)
+- 1st Place Visual Basic/C# Programming (2015 regional)
+- 1st Place Network Administration Using Microsoft (2015 regional)
+- 9th Place Computer Security (2015 regional)
+- 3rd Place Computer Modelling (2015 regional)
+- 7th Place PC Servicing & Troubleshooting (2015 state)
+
+### Groups:
+
+- Business Professionals of America (2013 to 2015)
+- Boy Scouts of America (2008 to 2012) Merit badges include the Klondike derby (x2), CPR, and First Aid.
 
 ### Give me something to do?
 
