@@ -1,6 +1,6 @@
 ### Is it me you're looking for?
 
-This account was created with the aim of facilitating teaching. Furthermore, I'm regularly on [Reddit](https://www.reddit.com/user/DidacticSpectre?utm_source=amp&utm_medium=&utm_content=comment_username) and [Pastebin](https://pastebin.com/u/DidacticSpectre) which is where you can find more helpful resources created by me.
+This account was created with the aim of facilitating teaching. Furthermore, I'm regularly on [Reddit](https://www.reddit.com/user/Didactic-Spectre?utm_source=amp&utm_medium=&utm_content=comment_username) and [Pastebin](https://pastebin.com/u/DidacticSpectre) which is where you can find more helpful resources created by me.
 
 ### Interests
 
@@ -62,6 +62,7 @@ With a decade of experience under my belt and having graduated from an academy s
 - PC Pro (2014 to present) - Perfect score ranking me in the top 10% of the U.S.. Certified to to work on, build, and troubleshoot both personal computers and servers. Also certified to manage hardware and Windows servers.
 - Copper Cabling (2014 to present) - Certified to create copper cables (both ethernet and coaxial) as well for installation adhering to standards and regulations. Also certified to install and use punchdown boards, server racks, running cables, etc..
 - Network Pro (2015 to present) - Perfect score ranking me in the top 10% of the U.S.. Certified to create and maintain networks from home to business implementations, as well for securing and troubleshooting them.
+- Security+ (2015 to present) - Self explanatory.
 - Fiber Optics (2015 to present) - Certified to build fiber optic cables and create fiber optic networks.
 - Forklift (2 companies, 2015 to present)
 
@@ -90,7 +91,7 @@ I'm always interested in helping and educating those wanting to become, or be be
 
 ### Social:
 
-[![image](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/DidacticSpectre)
+[![image](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Didactic-Spectre)
 [![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/828240628483751966)
 [![image](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UChAO6RYs7Qj4C8lzwTl-dYw)
 [![image](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/user-279854821)
