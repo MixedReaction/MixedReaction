@@ -80,6 +80,11 @@ With a decade of experience under my belt and having graduated from an academy s
 - 3rd Place Computer Modelling (2015 regional)
 - 7th Place PC Servicing & Troubleshooting (2015 state)
 
+### Certificates of Completion:
+
+- Stanford School of Engineering CS143
+- CC Career & Tech
+
 ### Groups:
 
 - Business Professionals of America (2013 to 2015)
