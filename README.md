@@ -53,6 +53,7 @@ With a decade of experience under my belt and having graduated from an academy s
 - Creating & Reading Poetry
 - Urbex
 - Automotive Tech
+- Chemical Engineering
 - Getting Lost In Thought
 
 ### Certifications:
